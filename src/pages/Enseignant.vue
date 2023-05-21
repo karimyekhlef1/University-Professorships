@@ -15,7 +15,7 @@
     export default{
     name:'Enseignant',
     data: () => ({
-        
+        test:null
     }),
     components: {
         DataRenderer
