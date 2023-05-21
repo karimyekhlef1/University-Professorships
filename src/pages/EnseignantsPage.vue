@@ -122,6 +122,7 @@
 
       goToEnseignant(id){
         // filter
+        //test commit 1.0.0
         this.$router.push({ name: 'Enseignant', params: {id:id} });
 
       },
