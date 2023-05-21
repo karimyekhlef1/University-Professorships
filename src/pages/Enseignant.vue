@@ -30,6 +30,8 @@
             default: 3
         }
     },
+
+    // commit 1.0.2
     // computed: 
 
 }
